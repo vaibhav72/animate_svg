@@ -3,7 +3,7 @@ import 'dart:developer';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
-import 'mountain_painter.dart';
+
 
 void main() {
   runApp(const MyApp());
